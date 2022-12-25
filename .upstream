@@ -1,0 +1,5 @@
+{
+    "name": "lineage",
+    "fetch": "https://github.com/LineageOS/android_packages_apps_AudioFX",
+    "revision": "refs/heads/lineage-20.0"
+}
